@@ -1,7 +1,7 @@
 # Youtube API Manipulator :
     
- Its a project I did during a React Course where It uses the youtube API to GET all the wanted videos that the user has
-    chosen in from the search bar
+ Its a project I did, It uses the youtube API to GET all the wanted videos that the user has
+ chosen in from the search bar using Axios
     
  ## Components :
    - Search Bar.
